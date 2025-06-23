@@ -99,7 +99,7 @@ Clear instructions to link the API key and create the CSE have been specified in
 > DO NOT forget to replace the api-keys (mentioned with ***** for easier identification ) 
 
 # Project Overview: 
-This project revolves around Content Creation utilizing the Agent Development Kit (ADK) and implements multiple agents. We have decisively chosen Newspaper Summarization as our focus area. In this project, various agents collaboratively execute essential tasks, including scraping news articles, correcting grammar, summarizing content, and presenting information based on user inputs such as state, country, and language.
+This project revolves around Content Creation utilizing the Agent Development Kit (ADK) and implements multiple agents. We have decisively chosen NEWS Summarization as our focus area. In this project, various agents collaboratively execute essential tasks, including scraping news articles, correcting grammar, summarizing content, and presenting information based on user inputs such as state, country, and language.
 
 ![adk__gif](https://github.com/user-attachments/assets/ab9d57ce-804b-42af-a581-d4ebb56b1d4f)
 
