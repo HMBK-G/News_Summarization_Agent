@@ -95,6 +95,8 @@ Here are parameters to be defined in the root_agent <br/>
 The agent.py can be modified according to the use case that the developer needs, and based on that, the functions are to be defined. Here, we have the following functions: summarize_news,correct_grammar,fetch_news,summarize_news_from_query. The search agent here makes use of Google Search to assist the Gemini LLM, which runs offline locally. We need to make a connection to the Google Custom Search Engine (CSE) by using Google Cloud systems. The options must be explored carefully. To be able to make use of the advanced resources, you need to create a billing account.
 
 Clear instructions to link the API key and create the CSE have been specified in the CSE_101.txt file.
+> [!CAUTION]
+> DO NOT forget to replace the api-keys (mentioned with ***** for easier identification ) 
 
 # Project Overview: 
 This project revolves around Content Creation utilizing the Agent Development Kit (ADK) and implements multiple agents. We have decisively chosen Newspaper Summarization as our focus area. In this project, various agents collaboratively execute essential tasks, including scraping news articles, correcting grammar, summarizing content, and presenting information based on user inputs such as state, country, and language.
