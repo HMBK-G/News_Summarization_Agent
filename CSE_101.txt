@@ -1,0 +1,56 @@
+ Step-by-Step Guide: Creating a Custom Search Engine (CSE) with Google
+ What is a CSE?
+A Custom Search Engine (CSE) lets you build a personalized search tool that focuses on specific websites or domains. Google provides this feature through the Programmable Search Engine.
+
+ Step-by-Step Instructions
+Step 1: Go to Google Programmable Search Engine
+Open: https://programmablesearchengine.google.com
+
+Sign in with your Google account.
+
+Step 2: Create a New Search Engine
+        Click “Get started” or “Add”.
+
+        In "Sites to search", type the websites you want the engine to include (e.g., example.com).
+
+        Choose your preferred language.
+
+        Click “Create”.
+
+Step 3: Test Your Search Engine
+        After creation, click on the “Public URL”.
+
+        Try entering search queries to see how it works.
+
+Step 4: Embed It on a Website (Optional)
+        Click “Get code”.
+
+        Copy the generated JavaScript code.
+
+        Paste it into the HTML of your website.
+
+Step 5: Customize Your Search Engine
+        From the dashboard, click on your CSE.
+
+        Use the Control Panel to:
+
+        Add/remove websites
+
+        Change layout and colors
+
+        Enable image search
+
+        Adjust search settings
+
+Step 6: Enable API Access (Advanced)
+        To fetch results using code:
+
+        Go to Google Cloud Console.
+
+        Create a new project.
+
+        Enable Programmable Search Engine API.
+
+        Go to APIs & Services > Credentials.
+
+        Create an API Key.
