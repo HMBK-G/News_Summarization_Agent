@@ -22,7 +22,7 @@ Step 3: Test Your Search Engine
 
         Try entering search queries to see how it works.
 
-Step 4: Embed It on a Website (Optional)
+Step 4: Embed It on a Website (Optional))
         Click “Get code”.
 
         Copy the generated JavaScript code.
