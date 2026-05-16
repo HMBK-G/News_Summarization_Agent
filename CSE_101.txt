@@ -2,7 +2,7 @@
  What is a CSE?
 A Custom Search Engine (CSE) lets you build a personalized search tool that focuses on specific websites or domains. Google provides this feature through the Programmable Search Engine.
 
- Step-by-Step Instructions
+ Step-by-Step Instructions:
 Step 1: Go to Google Programmable Search Engine
 Open: https://programmablesearchengine.google.com
 
